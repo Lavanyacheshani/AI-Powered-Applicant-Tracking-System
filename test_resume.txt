@@ -1,0 +1,1 @@
+John Doe - Software Engineer - 5 years experience - Python, JavaScript, React, Node.js - john.doe@email.com - Bachelor's in Computer Science
